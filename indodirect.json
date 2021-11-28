@@ -1,0 +1,70 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "Sandal Japit",
+            "price" : 12000,
+            "price_rupiah" : "Rp. 12.000",
+            "category" : {
+                "id" : 1,
+                "name" : "Sandal"
+            }
+        },
+        {
+            "id" : 2,
+            "name" : "Sandal Mahal",
+            "price" : 13000,
+            "price_rupiah" : "Rp. 13.000",
+            "category" : {
+                "id" : 1,
+                "name" : "Sandal"
+            }
+        },
+        {
+            "id" : 3,
+            "name" : "Sandal Swallow",
+            "price" : 14000,
+            "price_rupiah" : "Rp. 14.000",
+            "category" : {
+                "id" : 1,
+                "name" : "Sandal"
+            }
+        },
+        {
+            "id" : 4,
+            "name" : "Tas Slempang",
+            "price" : 25000,
+            "price_rupiah" : "Rp. 25.000",
+            "category" : {
+                "id" : 2,
+                "name" : "Tas"
+            }
+        }
+    ],
+
+    "category" : [
+        {
+            "id" : 1,
+            "name" : "Sandal"
+        },
+        {
+            "id" : 2,
+            "name" : "Tas"
+        }
+    ],
+
+    "banner" : [
+        {
+            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner1.png",
+            "title" : "Indonesia Direct"
+        },
+        {
+            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner2.jpg",
+            "title" : "Pacific Exposition 2021"
+        },
+        {
+            "image" : "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/banner/banner3.jpg",
+            "title" : "InsiDer with Mintaraga"
+        }
+    ]
+}
