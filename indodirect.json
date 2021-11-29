@@ -140,21 +140,6 @@
             "name": "Sepatu",
             "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/sneakers.png"
         },
-        {
-            "id": 1,
-            "name": "Elektronik",
-            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/electronics.png"
-        },
-        {
-            "id": 2,
-            "name": "Dapur",
-            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/kitchen.png"
-        },
-        {
-            "id": 3,
-            "name": "Sepatu",
-            "icon": "https://raw.githubusercontent.com/iiqbalt/IndoDirect/main/images/category/sneakers.png"
-        }
     ],
     "banner": [
         {
