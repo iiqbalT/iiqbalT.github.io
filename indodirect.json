@@ -157,7 +157,8 @@
     ],
     "home": [
         {
-            "request_quotation": [
+            "title" : "Requested Quotation",
+            "data" : [
                 {
                     "id": 4,
                     "name": "Sepatu Original Pria/Sepatu Sneakers Pria Terbaru H 3276 - navy, 44",
@@ -233,8 +234,11 @@
                         "name": "Dapur"
                     }
                 }
-            ],
-            "supplied_products": [
+            ]
+        },
+        {
+            "title" : "Supplied Product",
+            "data" : [
                 {
                     "id": 1,
                     "name": "Xiaomi Wifi Repeater Pro Amplifier 300Mbps Dual Antena Original",
