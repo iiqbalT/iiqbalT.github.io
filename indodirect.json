@@ -303,5 +303,12 @@
                 }
             ]
         }
+    ],
+
+    "users" : [
+        {
+            "email" : "user@demo.com",
+            "password" : "123456"
+        }
     ]
 }
